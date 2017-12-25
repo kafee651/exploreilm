@@ -1,6 +1,16 @@
 ====================================================================
 CHANGELOG
 ====================================================================
+## 1.0.9
+* Add Demo Importer tab
+* Fixed header image
+
+## 1.0.8
+* Add theme support title tag
+
+## 1.0.7
+* Fixed multiple H1 tag
+* Add custom logo
 
 ## 1.0.6
 * Fixed escape translate string issue in theme dashboard.
